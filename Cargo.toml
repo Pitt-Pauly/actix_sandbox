@@ -1,0 +1,8 @@
+[package]
+name = "actix_sandbox"
+version = "0.1.0"
+authors = ["Pitt Pauly <pitt.pauly@gmail.com>"]
+
+[dependencies]
+listenfd = "0.3"
+actix-web = "0.7"
